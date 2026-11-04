@@ -13,7 +13,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 
-<img src = "docs/screenshots/demo1.gif" width="320" alt="PhotoWidget demo">
+<img src = "docs/screenshots/demo1.png" width="320" alt="PhotoWidget demo">
 <img src = "docs/screenshots/demo2.png" width="320" alt="PhotoWidget demo">
 <img src = "docs/screenshots/demo3.png" width="320" alt="PhotoWidget demo">
 <br>
