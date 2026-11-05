@@ -12,10 +12,11 @@
 ![Lua](https://img.shields.io/badge/Lua-script-2c2d72?style=for-the-badge&logo=lua&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
-
+<div>
 <img src = "docs/screenshots/demo1.png" width="320" alt="PhotoWidget demo">
 <img src = "docs/screenshots/demo2.png" width="320" alt="PhotoWidget demo">
 <img src = "docs/screenshots/demo3.png" width="320" alt="PhotoWidget demo">
+</div>
 <br>
 <img src="docs/demo.gif" width="320" alt="PhotoWidget demo">
 
