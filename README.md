@@ -17,7 +17,6 @@
 <img src = "docs/screenshots/demo2.png" width="320" alt="PhotoWidget demo">
 <img src = "docs/screenshots/demo3.png" width="320" alt="PhotoWidget demo">
 </div>
-<br>
 <img src="docs/demo.gif" width="320" alt="PhotoWidget demo">
 
 
